@@ -24,6 +24,11 @@ public class EmployeeDetailsWithArray {
 		mapper.writerWithDefaultPrettyPrinter().writeValue(new File("./jsonArrayFile.json"), pObj);
 		
 		
+		
+		
+		
+		
+		
 	}
 
 }
