@@ -1,0 +1,10 @@
+{
+  "name" : "Akash",
+  "empID" : "TY0001",
+  "email" : "akash@gamil.com",
+  "spouce" : {
+    "name" : "abc",
+    "email" : "abc@gmail.com",
+    "phoneNo" : 12345
+  }
+}
